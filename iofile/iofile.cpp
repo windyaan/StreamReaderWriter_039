@@ -44,4 +44,6 @@ int main() {
 		//tutup file tersebut setelah selesai
 		infile.close();
 	}
+	//tutup file tersebut setelah selesai
+	infile.close();
 }
